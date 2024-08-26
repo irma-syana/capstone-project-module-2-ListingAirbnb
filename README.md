@@ -70,7 +70,7 @@ Dataset dapat diakses pada https://drive.google.com/file/d/1c6FJdItxs3SSWrEx5Eaj
 
 Sebaiknya tiap host menetapkan harga yang kompetitif berdasarkan analisis mendalam terhadap tarif rata-rata per listing dan per malam di berbagai Neighbourhood. Pemilik properti dapat menggunakan strategi penetapan harga dinamis yang menyesuaikan tarif berdasarkan permintaan, musim, dan acara lokal, atau menyediakan diskon untuk pemesanan jangka panjang atau menawarkan paket spesial selama musim rendah (low season) untuk menarik lebih banyak tamu. 
 
-Melalui analisa, mayoritas tarif berdasarkan `Neighbourhood` berada di kisaran 60% hingga 80% dari rata-rata tarif, dengan angka rata-rata 6.147 Bath untuk tarif per listing dan rata-rata tarif per malam 754 Bath. 
+Melalui analisa, mayoritas tarif berdasarkan `Neighbourhood` berada di kisaran 80% dari rata-rata tarif, dengan angka rata-rata 6.000 Bath untuk tarif per listing dan rata-rata tarif per malam 1405 Bath. 
 
 >- Kolaborasi dengan Bisnis Lokal
 
