@@ -1,17 +1,5 @@
 ### capstone project module 2 AirBnb
 
-# Import libraries
-import pandas as pd
-import numpy as np
-import missingno
-import matplotlib.pyplot as plt
-import seaborn as sns
-
-from scipy import stats #kolmogorov smirnov
-from statsmodels.stats.diagnostic import lilliefors #uji lilliefors
-from scipy.stats import shapiro #uji shapiro wilk
-from scipy.stats import normaltest #uji D'Agustino Pearson
-
 # **Latar Belakang**
 
 > Airbnb, yang didirikan pada tahun 2008, adalah sebuah platform online yang menghubungkan penyewa akomodasi dengan penyedia tempat hunian, seperti rumah atau apartemen, kamar pribadi, hotel, dan kamar bersama. Kehadiran Airbnb telah mengubah cara orang mencari dan memesan tempat tinggal sementara, dengan pengguna terdiri dari host (pemilik properti) dan guest (tamu).
