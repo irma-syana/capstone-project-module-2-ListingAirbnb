@@ -43,30 +43,36 @@ Dataset terdiri atas 17 kolom yang berisi daftar yang berisi informasi `listing`
 Dataset dapat diakses pada https://drive.google.com/file/d/1c6FJdItxs3SSWrEx5EajEKKd1SgzqJDT/view?usp=drive_link
 
 # **Kesimpulan**
+>- Jumlah listing terbanya berada pada area Urban
+
 >- Area urban di Bangkok, seperti Vadhana, Khlong Toei, dan Huai Khwang, mendominasi pasar Airbnb dengan jumlah listing yang signifikan dan tingkat hunian yang tinggi. Ini menandakan bahwa kawasan perkotaan ini merupakan pilihan utama bagi wisatawan.
 
 >- Area suburban dan rural memiliki jumlah listing dan tingkat hunian yang lebih rendah dibandingkan area urban. Namun, terdapat beberapa kawasan suburban, seperti Phra Khanong, yang menunjukkan performa lebih baik. Daerah rural cenderung memiliki performa yang lebih rendah, namun ada listing unik di wilayah ini yang menunjukkan potensi besar.
 
 >- Preferensi Akomodasi: Di wilayah urban, "Entire Home/Apartment" adalah pilihan yang paling populer, sementara di wilayah suburban dan rural, "Private Room" menjadi pilihan dominan. Ini mencerminkan perbedaan preferensi penyewa di berbagai jenis lingkungan, di mana penyewa di area urban cenderung mencari privasi dan kenyamanan.
 
->- Terdapat perbedaan harga yang signifikan antara wilayah urban, suburban, dan rural. Wilayah urban secara keseluruhan memiliki harga yang lebih tinggi, kecuali untuk shared room di wilayah rural yang memiliki harga yang sangat tinggi. Hal ini mungkin menunjukkan adanya fitur unik atau kelangkaan pilihan di daerah tersebut. Harga untuk entire home/apartment yang tinggi di semua wilayah menunjukkan permintaan yang konsisten untuk tipe properti ini.
+>- Terdapat perbedaan harga yang signifikan antara wilayah urban, suburban, dan rural. Wilayah urban secara keseluruhan memiliki harga yang lebih tinggi, kecuali untuk shared room di wilayah rural yang memiliki harga yang sangat tinggi. Hal ini menunjukkan adanya fitur unik atau kelangkaan pilihan di daerah tersebut. Harga untuk entire home/apartment yang tinggi di semua wilayah menunjukkan permintaan yang konsisten untuk tipe properti ini.
 
->- Beberapa kawasan yang saat ini kurang dikenal, seperti Lak Si dan Bang Khae, memiliki potensi untuk berkembang. Listing yang ada di kawasan-kawasan ini menunjukkan bahwa dengan pengembangan yang tepat, kawasan ini dapat menarik lebih banyak penyewa dan meningkatkan performa mereka.
+>- 80% dari harga per listing berada pada harga 3588 baht, sementara rata-rata tarif per malamnya berada pada 1757 baht
 
 # **Rekomendasi Bisnis**
 >- Optimalisasi Harga dan Penawaran
 
 Sebaiknya tiap host menetapkan harga yang kompetitif berdasarkan analisis mendalam terhadap tarif rata-rata per listing dan per malam di berbagai Neighbourhood. Pemilik properti dapat menggunakan strategi penetapan harga dinamis yang menyesuaikan tarif berdasarkan permintaan, musim, dan acara lokal, atau menyediakan diskon untuk pemesanan jangka panjang atau menawarkan paket spesial selama musim rendah (low season) untuk menarik lebih banyak tamu. 
 
-Melalui analisa, mayoritas tarif berdasarkan `Neighbourhood` berada di kisaran 80% dari rata-rata tarif, dengan angka rata-rata 6.000 Bath untuk tarif per listing dan rata-rata tarif per malam 1405 Bath. 
+Melalui analisa, mayoritas tarif berdasarkan `Neighbourhood` berada di kisaran 80% dari rata-rata tarif per listing adalah 3588 bahtdan rata-rata tarif per malam 1757 Bath. Angka ini dapat dijadikan patokan bagi para host untuk menentukan harga pasar.
 
 >- Kolaborasi dengan Bisnis Lokal
 
-Melalui kerjasama dengan tempat kuliner, tempat wisata, atau penyedia layanan lokal, bisnis Airbnb Bangkok dapat memberikan customer touchpoint yang berkesan dengan keunikan atau ciri khas area Bankok. Salah satu caranya adalah dengan mengikuti acara lokal atau festival dengan menawarkan paket khusus yang menggabungkan penginapan dengan akses ke acara-acara tersebut.
+Hasil analisa yang mengerucut pada harga listing tertinggi berada pada area yang jauh dari pusat kota `rural`, namun juga memiliki occupancy hingga 75%, maka sebaiknya host menjalin  kerjasama dengan tempat kuliner, tempat wisata, atau penyedia layanan lokal, bisnis Airbnb Bangkok dapat memberikan customer touchpoint yang berkesan dengan keunikan atau ciri khas area Bangkok. Salah satu caranya adalah dengan mengikuti acara lokal atau festival dengan menawarkan paket khusus yang menggabungkan penginapan dengan akses ke acara-acara tersebut.
     
 >- Pemasaran Digital dan Branding
 
-Menargetkan kelompok wisatawan tertentu, dan membangun merek yang kuat di pasar lokal dan internasional. Misalnya wisatawan backpacker mungkin lebih tertarik pada akomodasi yang terjangkau dan berlokasi dekat dengan tempat-tempat menarik, sementara pelancong bisnis mungkin memprioritaskan fasilitas kerja dan kenyamanan, mementingkan eksklusifitas tanpa mengenal harga.
+Menargetkan kelompok wisatawan tertentu melalui pemasaran digital, dan membangun merek yang kuat di pasar lokal dan internasional. Misalnya wisatawan backpacker mungkin lebih tertarik pada akomodasi yang terjangkau dan berlokasi dekat dengan tempat-tempat menarik, sementara pelancong bisnis mungkin memprioritaskan fasilitas kerja dan kenyamanan, mementingkan eksklusifitas. Pertimbangan harga rata-rata tarif per malam yang dapat dijadikan patokan adalah:
+>- Entire home/apt = 1694 baht
+>- Hotel room = 2347 baht
+>- Private room = 2044 baht
+>- shared room = 958 baht
 
 # **Tableu**
 https://public.tableau.com/views/v1_M2_Airbnb_Listings_Bangkok_Irma/Pricedistribution?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
